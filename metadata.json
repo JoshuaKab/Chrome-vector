@@ -1,0 +1,7 @@
+{
+  "name": "ChromaVector Pro",
+  "description": "A professional-grade utility for CMYK/RGB color conversion and AI-powered image-to-vector transformation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
