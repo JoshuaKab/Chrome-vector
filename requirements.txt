@@ -1,4 +1,3 @@
 google
-react
 App
-pip3
+
